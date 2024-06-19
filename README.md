@@ -1,5 +1,5 @@
 # LAION-TextData
-Scene text image data with `text words` and their `coordinates` annotations collected from [LAION-400M dataset] (https://laion.ai/blog/laion-400-open-dataset/).
+Scene text image data with `text words` and their `coordinates` annotations collected from [LAION-400M dataset](https://laion.ai/blog/laion-400-open-dataset/).
 
 We provide the links of images from LAION-400M dataset, and our mannually annotated `text` and `coordinates` information.
 
