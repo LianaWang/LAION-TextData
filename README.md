@@ -5,9 +5,9 @@ We provide the links of images from LAION-400M dataset, and our mannually annota
 
 The following is one sample of the annotation:
 
-```
+```python
 {
-  "index": "part1_000228186", # only a random name
+  "index": "part1_000228186", # just a random name
   "url": "https://thesiliconreview.net/administrator/article_image/siliconreview-Googles-face-recognition-technology-to-be-added-into-home-security-camera.jpg", # url of the image, we do not provide downloading following the license of LAION-400M
   "width": 840, # image width
   "height": 449, # image height
